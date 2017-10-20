@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <router-link :to="'info'">Info</router-link>
-    <router-link :to="'HelloWorld'">HelloWorld</router-link>
+    <router-link :to="'info'">Infovjhcjhscjhjh</router-link>
+    <router-link :to="'HelloWorld'">Hel jhe sjhloWorld</router-link>
     <router-view></router-view>
   </div>
 </template>
